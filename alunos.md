@@ -7,3 +7,4 @@
 - Lorenzo:
 - João Vitor:
 - Marcelo:
+- [Vinicios](https://github.com/joselitosn/fundamentosSI/)
