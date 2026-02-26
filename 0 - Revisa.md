@@ -1,7 +1,5 @@
 # Arquivo com revisões semanais da disciplina
 
-## Sistemas de Informação
-
 ## Computação em Nuvem
 
     - O que é?
