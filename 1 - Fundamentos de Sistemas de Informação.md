@@ -1,4 +1,4 @@
-# Fundamentos de Sistemas de Informação
+# Fundamentos de Sistemas de Informação - documento alterado
     ## Sistema  
         - o que é: conjunto de partes interconectadas (sinergia) 
         - o que o compõe: aspectos estruturais (físicas) e funcionais (comportamento)
