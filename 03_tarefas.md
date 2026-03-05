@@ -1,7 +1,9 @@
 # Tarefas
+Relação das tarefas a serem realizadas ao longo do semestre.
 
 ## Tarefa 1 - Aula 3
 Realizar uma pesquisa (em IA generativa ou livros da área) sobre os conceitos ligados aos modelos de arquitetura de software:
+
     - PaaS
     - IaaS
     - SaaS
@@ -9,6 +11,8 @@ Realizar uma pesquisa (em IA generativa ou livros da área) sobre os conceitos l
     - DaaS
     - DBaaS
     - SECaaS
+
 Para cada um deles, apresentar:
+
     - breve descrição (o que é e para que serve)
     - um exemplo de mercado
