@@ -1,6 +1,21 @@
 # Notas de aula da disciplina
 Neste arquivo, há apontamentos e anotações de pontos discutidos em sala.
 
+## Aula 5
+  - Tarefa avaliativa
+    - Assunto: Tipos de Sistemas de Informação
+    - Pesquisar, escrever e dar exemplos dos diferentes tipos de Sistemas de Informação
+      - O resultado da pesquisa deve ser colocado no arquivo glossario.md do repositório de cada aluno  
+      - Enviar para alexz@ufn.edu.br o link do repositório contendo o glossario.md
+        - O assunto da mensagem é: "Trabalho Fundamentos SI"
+    - Data: 19/03/2026
+    - Hora: 20:00
+    - Algumas curiosidades: os sistemas abaixo são de que tipo de SI?
+      - gov.br 
+      - Netflix
+      - Minha Agenda UFN 
+      - Sistema de Imposto de Renda do Governo Brasileiro
+
 ## Aula 4
   - Discussão da tarefa sobre modelos arquiteturais
   - Computação ou processamento
